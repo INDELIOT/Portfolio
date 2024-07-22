@@ -1031,6 +1031,53 @@ section {
   box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
+.form-section {
+  padding: 40px 50px 30px;
+  width: 550px;
+  background-color: #fff;
+}
+
+.form-section form {
+  margin-top: 15px;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+.form-group label {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: #2a6324;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+  font-size: 0.875rem;
+  font-weight: 500;
+  width: 100%;
+  color: hsl(240, 54%, 15%);
+  padding: 0.3rem;
+  border: 2px solid #ccc;
+  border-radius: 0.3rem;
+  outline: none;
+}
+
+.form-group textarea {
+  height: 150px;
+  resize: none;
+}
+
+.send-btn {
+  color: white;
+  background: linear-gradient(to right, #4776E6 0%, #7f47e6 100%);
+  padding: 6px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
 
 
 /*# sourceMappingURL=styles.css.map */
