@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding SOC: A Beginner's Guide",
+        "image": "img/port1.jpg",
+        "link": "",
+        "content": "A Security Operations Center (SOC) is the backbone of any organization's cybersecurity defense. SOC analysts monitor networks 24/7, analyze security alerts, and respond to incidents. Learn about the key roles, tools like SIEM and EDR, and how SOC teams protect organizations from cyber threats in real-time."
+    },
+    {
+        "id": 2,
+        "title": "Top 10 OWASP Vulnerabilities Explained",
+        "image": "img/blog1.jpg",
+        "link": "",
+        "content": "The OWASP Top 10 lists the most critical web security risks. From Injection attacks and Broken Authentication to Cross-Site Scripting (XSS) and Security Misconfigurations — understanding these vulnerabilities is essential for any security professional to protect web applications effectively."
+    },
+    {
+        "id": 3,
+        "title": "Getting Started with Bug Bounty Hunting",
+        "image": "img/blog2.jpg",
+        "link": "",
+        "content": "Bug bounty hunting lets you earn rewards by finding security flaws in companies' systems. Start with platforms like HackerOne and Bugcrowd. Master reconnaissance techniques, learn common vulnerability patterns, and build your methodology. Persistence and continuous learning are key to success."
+    },
+    {
+        "id": 4,
+        "title": "Wireshark for Beginners: Packet Analysis 101",
+        "image": "img/blog3.jpg",
+        "link": "",
+        "content": "Wireshark is a powerful network protocol analyzer used for capturing and analyzing network traffic. Learn how to capture packets, apply display filters, follow TCP streams, and identify suspicious network activity. An essential tool in every cybersecurity analyst's toolkit for network forensics."
+    },
+    {
+        "id": 5,
+        "title": "Incident Response: From Alert to Resolution",
+        "image": "img/port6.jpg",
+        "link": "",
+        "content": "Incident Response (IR) is the structured approach to handling and managing security breaches. From preparation and identification to containment, eradication, and recovery — discover the IR lifecycle. Learn how SOC teams use playbooks, automation, and threat intelligence for effective response."
+    },
+    {
+        "id": 6,
+        "title": "Digital Forensics: Investigating Cyber Crimes",
+        "image": "img/port3.jpg",
+        "link": "",
+        "content": "Digital forensics involves collecting, preserving, and analyzing digital evidence from devices and networks. From disk imaging and memory analysis to log correlation and malware analysis — forensic investigators piece together cyber crime timelines using tools like Autopsy, FTK, and Volatility."
+    }
+]
